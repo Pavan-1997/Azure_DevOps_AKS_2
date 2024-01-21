@@ -45,7 +45,6 @@
 
 6. Click on Save and Run - Need to give Permit
 
-
 ![BUILD-PIPELINE](https://github.com/Pavan-1997/Azure_DevOps_AKS_PROJECT_2/assets/32020205/277bf1cb-7fbd-4497-85d8-8631b9ed7780)
 
 ![BUILD-PIPELINE-ARTIFACT](https://github.com/Pavan-1997/Azure_DevOps_AKS_PROJECT_2/assets/32020205/f1bcbbbc-2390-4a1e-a7cf-fe0c5601d615)
@@ -68,10 +67,5 @@
 ![RELEASE-VARIABLES](https://github.com/Pavan-1997/Azure_DevOps_AKS_PROJECT_2/assets/32020205/39755c9a-4d54-4ae6-9b26-2c830694b035)
 
 
-
-
-   
-
-
-7. Now delete the Infra using the file `AZURE-AKS-DEVOPS-INFRA-DELETE.sh` and give peemissions `chmod 775 AZURE-AKS-DEVOPS-INFRA-DELETE.sh` and execute it in the Azure CLI
+8. Now delete the Infra using the file `AZURE-AKS-DEVOPS-INFRA-DELETE.sh` and give peemissions `chmod 775 AZURE-AKS-DEVOPS-INFRA-DELETE.sh` and execute it in the Azure CLI
 
