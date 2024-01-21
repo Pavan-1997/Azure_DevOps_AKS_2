@@ -1,12 +1,14 @@
 # Azure_DevOps_AKS_PROJECT_2
 
-1. Go to dev.azure.com portal
+1. Create Infra using the in the Azure CLI
+
+2. Go to dev.azure.com portal
 
 
-2. Click on New Project -> Project Name - Demo-AKS -> Click on Create
+3. Click on New Project -> Project Name - Demo-AKS -> Click on Create
 
 
-3. Now go to Repos -> Files -> Click on Import in Import a Repository
+4. Now go to Repos -> Files -> Click on Import in Import a Repository
 
     Clone URL - `https://github.com/piyushsachdeva/MyHealthClinic-AKS`
     
@@ -19,7 +21,7 @@
     - Kubernetes extension 
 
 
-4. Now go to Pipelines -> Pipelines -> Click on Create Pipeline -> Select Azure Repos Git -> Select the Repo name -> 
+5. Now go to Pipelines -> Pipelines -> Click on Create Pipeline -> Select Azure Repos Git -> Select the Repo name -> 
 
     Modify the services by clicking on Settings above each task to update the Subscription and Container Registry
     
@@ -36,5 +38,5 @@
     Click on Save    
 
 
-5. Click on Save and Run - Need to give Permit
+6. Click on Save and Run - Need to give Permit
 
