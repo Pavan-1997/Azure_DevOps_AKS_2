@@ -15,7 +15,7 @@
 
 4. Now go to Repos -> Files -> Click on Import in Import a Repository
 
-    Clone URL - `https://github.com/piyushsachdeva/MyHealthClinic-AKS`
+    Clone URL - `https://github.com/Pavan-1997/Azure_DevOps_AKS_PROJECT_2.git` & go to the path `https://github.com/Pavan-1997/Azure_DevOps_AKS_PROJECT_2/tree/main/MyHealthClinic-AKS`
     
     Click on Import
     
