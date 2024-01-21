@@ -8,15 +8,15 @@
 
 3. Now go to Repos -> Files -> Click on Import in Import a Repository
 
-Clone URL - https://github.com/piyushsachdeva/MyHealthClinic-AKS
-
-Click on Import
-
-
-Install the below from the Organization Settings -> Extensions
-
-- Replace Token
-- Kubernetes extension 
+  Clone URL - https://github.com/piyushsachdeva/MyHealthClinic-AKS
+  
+  Click on Import
+  
+  
+  Install the below from the Organization Settings -> Extensions
+  
+  - Replace Token
+  - Kubernetes extension 
 
 
 4. Now go to Pipelines -> Pipelines -> Click on Create Pipeline -> Select Azure Repos Git -> Select the Repo name -> 
