@@ -23,7 +23,7 @@
 
 Modify the services by clicking on Settings above each task to update the Subscription and Container Registry
 
-* dapac -Compressed form of DB objects
+`* dapac -Compressed form of DB objects`
 
 Click on Variable add below KV pairs
 
