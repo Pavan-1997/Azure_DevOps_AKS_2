@@ -60,11 +60,13 @@
 
 7. Create a release pipeline and run it
 
-![RELEASE-PIPELINE](https://github.com/Pavan-1997/Azure_DevOps_AKS_PROJECT_2/assets/32020205/603d27f9-30ee-419b-950a-69ef9d345b89)
-
 ![RELEASE-PIPELINE-BLOCK](https://github.com/Pavan-1997/Azure_DevOps_AKS_PROJECT_2/assets/32020205/0986a0be-b1c3-41ce-a5ba-623b4ec1c519)
 
 ![RELEASE-VARIABLES](https://github.com/Pavan-1997/Azure_DevOps_AKS_PROJECT_2/assets/32020205/39755c9a-4d54-4ae6-9b26-2c830694b035)
+
+![RELEASE-PIPELINE](https://github.com/Pavan-1997/Azure_DevOps_AKS_PROJECT_2/assets/32020205/603d27f9-30ee-419b-950a-69ef9d345b89)
+
+![APP](https://github.com/Pavan-1997/Azure_DevOps_AKS_PROJECT_2/assets/32020205/c1d392c6-7eb7-45de-b108-134f7464d843)
 
 
 8. Now delete the Infra using the file `AZURE-AKS-DEVOPS-INFRA-DELETE.sh` and give peemissions `chmod 775 AZURE-AKS-DEVOPS-INFRA-DELETE.sh` and execute it in the Azure CLI
