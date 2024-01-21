@@ -41,3 +41,6 @@
 
 6. Click on Save and Run - Need to give Permit
 
+
+7. Now delete the Infra using the file `AZURE-AKS-DEVOPS-INFRA-DELETE.sh` and give peemissions `chmod 775 AZURE-AKS-DEVOPS-INFRA-DELETE.sh` and execute it in the Azure CLI
+
