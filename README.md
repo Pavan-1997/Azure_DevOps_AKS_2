@@ -1,4 +1,4 @@
-# Azure_DevOps_AKS_2
+# Azure_DevOps_AKS_PROJECT_2
 
 1. Go to dev.azure.com portal
 
