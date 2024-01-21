@@ -26,12 +26,13 @@
     `* dapac -Compressed form of DB objects`
     
     Click on Variable add below KV pairs
-    
+
+    ```
     ACR - acrpavan.azurecr.io
     SQLpassword - P2ssw0rd1234
     SQLserver - aks-sqlserver.database.windows.net
     SQLuser - sqladmin
-    
+    ```
     Click on Save    
 
 
