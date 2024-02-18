@@ -1,5 +1,5 @@
 # Azure_DevOps_AKS_PROJECT_2  
-   
+    
 1. Create Infra using the file `AZURE-AKS-DEVOPS-INFRA.sh` and give peemissions `chmod 775 AZURE-AKS-DEVOPS-INFRA.sh` and execute it in the Azure CLI
 
 ![AKS](https://github.com/Pavan-1997/Azure_DevOps_AKS_PROJECT_2/assets/32020205/85f60772-3a4d-4880-ac57-39e31c983714)
